@@ -11,3 +11,7 @@ var functionCheckTask = function(){
 var testCompleted = function(){
     console.log('testComplete');
 }
+
+var doneTask = function(){
+    console.log('taskDone');
+}
